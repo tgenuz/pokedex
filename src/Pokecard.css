@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Pokecard {
+    border: 2px solid mediumseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding:0 .75em 2em .75em;
+}
